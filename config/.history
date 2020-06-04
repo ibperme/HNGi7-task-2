@@ -1,0 +1,24 @@
+cd --
+reset
+git instal
+git install 
+git --h
+git --help
+cd --reset
+git reset
+git init
+git config --global user.email "belloibrahim7777@gmail.com"
+git config --global user.name "ibperme"
+git clone https://github.com/ibperme/HNGi7-task-2.git
+git checkout -b HNG-01075
+git add
+git add C:\Users\USER\Downloads\cmder\HNGi7-task-2\scripts\ibrahim-HNG-01075.js
+git add scripts\ibrahim-HNG-01075.js
+git add -A
+git git config core.autocrlf true
+git config core.autocrlf true
+git status
+git config --global core.autocrlf false
+git add ibrahim-HNG-01075.js
+git commit -m "Ibrahim-HNG-01075 script"
+git add .
