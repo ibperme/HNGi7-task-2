@@ -22,4 +22,5 @@ git config --global core.autocrlf false
 git add ibrahim-HNG-01075.js
 git commit -m "Ibrahim-HNG-01075 script"
 git add.
+git commit
 git add .
