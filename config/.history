@@ -15,7 +15,6 @@ git git config core.autocrlf true
 git config core.autocrlf true
 git config --global core.autocrlf false
 git add ibrahim-HNG-01075.js
-git commit -m "Ibrahim-HNG-01075 script"
 git add.
 git commit
 git commit -m "Ibrahim-HNG01075 script"
@@ -24,15 +23,19 @@ git remote https://github.com/ibperme/HNGi7-task-2
 git push https://github.com/ibperme/HNGi7-task-2
 git push --set-upstream https://github.com/ibperme/HNGi7-task-2 HNG-01075
 cd cmder
-git clone https://github.com/ibperme/HNGi7-task-2.git
 giit init
 git init
-git checkout -b HNG-01075
 cd ..
 git add
 git commit -m "ibrahim-HNG-01075 script"
-git push origin HNG-01075
 git remove
 git clone https://github.com/tomiwaajayi/HNGi7-task-2.git
 git status
+git commit -m "Ibrahim-HNG-01075 script"
+git remote add origin <https://github.com/ibperme/HNGi7-task-2.git>
+git remote add origin https://github.com/ibperme/HNGi7-task-2.git
+git push -u origin master
+git push origin HNG-01075
+git clone https://github.com/ibperme/HNGi7-task-2.git
+git checkout -b HNG-01075
 git add .
